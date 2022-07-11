@@ -1,7 +1,7 @@
 <?php
 
 	/**
-	 * 
+	 * this is from devtwo for testing merge operation
 	 */
 	class A
 	{
