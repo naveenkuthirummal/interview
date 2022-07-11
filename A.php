@@ -1,7 +1,7 @@
 <?php
 
 	/**
-	 * 
+	 * this is created only for testing purpose
 	 */
 	class A
 	{
