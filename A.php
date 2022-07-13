@@ -2,9 +2,9 @@
 
 	/**
 
-<<<<<<< HEAD
+
 	 * this is from devtwo for testing merge operation
-=======
+
 	 * this is from devtwo for testing merge operation
 
 	
