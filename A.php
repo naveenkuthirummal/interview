@@ -1,11 +1,14 @@
 <?php
 
 	/**
+
 <<<<<<< HEAD
 	 * this is from devtwo for testing merge operation
 =======
-	 * this is created only for testing purpose
->>>>>>> devone
+	 * this is from devtwo for testing merge operation
+
+	
+
 	 */
 	class A
 	{
@@ -34,3 +37,6 @@
 	$obj->set('nav','ku',28);
 	unset($obj);
 	echo $str;
+
+
+	class c{}
